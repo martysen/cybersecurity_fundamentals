@@ -1,0 +1,1 @@
+this is sample which will securely transmitted over a network from a server to a client. 
